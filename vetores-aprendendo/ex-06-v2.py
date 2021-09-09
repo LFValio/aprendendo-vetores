@@ -1,3 +1,6 @@
+# criar um programa que leia um gabarito. Em seguida, alunos devem escrever seu nome e 
+# fazer a prova. No fim, deve-se mostrar a nota de cada aluno e a média da sala.
+
 gab = []        # vetor gabarito
 nome = []       # vetor nome
 res1 = []       # vetor resposta 1
